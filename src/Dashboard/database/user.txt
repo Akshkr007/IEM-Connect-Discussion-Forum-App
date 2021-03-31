@@ -1,0 +1,7 @@
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+student,vivekkumarsinha999@gmail.com,11/11/2000,gggg,aff
+1,Ayan,test@gmail.com,11/07/1998,123
